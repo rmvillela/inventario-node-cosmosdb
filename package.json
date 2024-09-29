@@ -1,0 +1,12 @@
+{
+  "name": "projeto-inventario",
+  "version": "1.0.0",
+  "description": "Projeto API CRUD em NodeJS com Azure Cosmos DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roosevelt Villela",
+  "license": "ISC"
+}
